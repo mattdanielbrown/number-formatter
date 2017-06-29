@@ -1,0 +1,29 @@
+{
+  "name": "number-formatter",
+  "version": "1.0.0",
+  "description": "Formats numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdanielbrown/number-formatter.git"
+  },
+  "keywords": [
+    "formatting",
+    "numbers",
+    "format",
+    "number"
+  ],
+  "author": "Matthew Daniel Brown <developer@mattdanielbrown.com> (https://mattdanielbrown.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattdanielbrown/number-formatter/issues"
+  },
+  "homepage": "https://github.com/mattdanielbrown/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
